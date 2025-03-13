@@ -1,2 +1,2 @@
 # CVE_Assignment
-Computer Vision Engineer Assignment_Deccan AI
+Computer Vision Engineer Assignment
