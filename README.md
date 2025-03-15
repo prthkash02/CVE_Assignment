@@ -2,7 +2,7 @@
 
 A FastAPI-based Image Classification API using MobileNetV2, deployed with Netlify.
 
-🌐 Live API Demo: [Clever Classify](https://clever-classify-6eba9e.netlify.app/)  
+🌐 Live API Demo: [Clever Classify](https://clever-classify.netlify.app/)  
 
 📦 Features
 ✅ **Deep Learning Model (MobileNetV2) trained on CIFAR-10**  
