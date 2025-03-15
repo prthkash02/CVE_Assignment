@@ -2,7 +2,7 @@
 
 A dual-implementation image classification project featuring both a Python backend API and a JavaScript frontend application.
 
-![Demo Screenshot](https://images.unsplash.com/photo-1633419461186-7d40a38105ec?auto=format&fit=crop&q=80&w=1200)
+![Project Live Link] https://clever-classify.netlify.app/
 
 ## 🌟 Features
 
@@ -126,45 +126,3 @@ A dual-implementation image classification project featuring both a Python backe
 - Efficient image preprocessing
 - Lazy loading of models
 - Docker containerization for backend
-
-## 🔒 Security
-
-- Input validation on both frontend and backend
-- File type and size restrictions
-- Rate limiting on API endpoints
-- No permanent data storage
-- Docker container isolation
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- TensorFlow and TensorFlow.js teams
-- FastAPI framework creators
-- MobileNetV2 model creators
-- React and Tailwind CSS communities
-- Lucide for the beautiful icons
-
-## 📞 Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
-
-## 🔮 Future Improvements
-
-- [ ] Support for custom models
-- [ ] Batch processing capability
-- [ ] Model performance comparison tools
-- [ ] Additional model architectures
-- [ ] API authentication
-- [ ] Result caching
-- [ ] Deployment guides for various platforms
