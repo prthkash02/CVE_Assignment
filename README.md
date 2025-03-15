@@ -81,11 +81,3 @@ The API uses MobileNetV2, pre-trained on ImageNet. The model can classify images
 Once the server is running, visit:
 - Swagger UI: `http://localhost:8000/docs`
 - ReDoc: `http://localhost:8000/redoc`
-
-## License
-
-MIT
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
